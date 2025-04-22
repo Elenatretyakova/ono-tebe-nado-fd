@@ -48,7 +48,7 @@
 .address {
     max-height: 98px;
     font-size: 18px;
-    font-style: normal; 
+    font-style: normal;
     line-height: 24px;
     text-underline-offset: 4px;
 }
@@ -64,7 +64,7 @@
     position: relative;
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;  
+    background-position: center;
     box-sizing: border-box;
 }
 
@@ -264,7 +264,7 @@
     width: 240px;
     height: 240px;
     background-color: black;
-    border-radius: 50%; 
+    border-radius: 50%;
     display: flex;
     justify-content: space-around;
 }
@@ -275,7 +275,7 @@
 }
    
 .about__title {
-    width: 291px;    
+    width: 291px;
     font-weight: 700;
     font-size: 40px;
     line-height: 100%;
